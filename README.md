@@ -16,6 +16,14 @@ You may notice this account is relatively new. I am currently in the process of 
 
 The majority of my engineering work over the last six years (primarily at Thoughtworks and for various private contracts) resides in private enterprise repositories. To respect NDAs and intellectual property, I will be adding anonymised case studies and architectural overviews to this profile as I document them.
 
+## Project Case Studies
+
+I am documenting the architecture and quality strategies of my key projects here:
+
+* **[Gamified Life Coaching & Course Portal](./projects/life-coaching-portal.md)**
+  * **Stack:** Next.js, Node/Express, Payload CMS, GCP, Stripe.
+  * **Focus:** RBAC, dynamic content gating, and accessibility-first UI.
+
 ## Technical Focus
 
 ### Accessibility & Quality Advocacy
