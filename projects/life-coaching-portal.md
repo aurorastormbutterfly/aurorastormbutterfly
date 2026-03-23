@@ -15,6 +15,19 @@ I architected a decoupled full-stack application hosted on **Google Cloud Platfo
 
 ---
 
-### System Architecture (C4 Model - Level 2)
+### System Architecture
 
-![level 2 diagram showing interaction between system components and external users](../projects/assets/lcp-architecture.png)
+![diagram showing interaction between system components and external users](../projects/assets/lcp-architecture.png)
+
+### Data, Security & Dynamic Logic
+
+1. The Suggestion Engine (Tag-Based Matching)
+
+Content is not static; it is "suggested" based on a user's Focus Profile.
+
+Metadata Layer: In Payload CMS, every module is tagged by focus area (e.g., stress-reduction) and difficulty level.
+
+Logic Flow: When a user completes a quiz, the Express backend updates their profile in Cloud SQL. The API then performs a cross-reference query against the CMS to return the most relevant next steps.
+
+2. Sequence Diagram
+![diagram showing interaction between system components and external users](../projects/assets/lcp-sequence.png)
