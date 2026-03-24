@@ -19,7 +19,9 @@ The majority of my engineering work over the last six years (primarily at Though
 ## Project Case Studies
 
 I am documenting the architecture and quality strategies of my key projects here:
-
+* **[Open Source System Register (Public Sector)](./projects/system-register.md)**
+  * **Stack:** Java (Quarkus), React, D3.js, PostgreSQL, Docker.
+  * **Focus:** Event Sourcing architecture, interactive data visualisation, and GDS compliance.
 * **[Gamified Life Coaching & Course Portal](./projects/life-coaching-portal.md)**
   * **Stack:** Next.js, Node/Express, Payload CMS, GCP, Stripe.
   * **Focus:** RBAC, dynamic content gating, and accessibility-first UI.
