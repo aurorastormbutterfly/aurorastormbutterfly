@@ -40,7 +40,11 @@ As a Web Accessibility Subject Matter Expert (WCAG 2.2), I integrate inclusive d
 * **DevOps & CI/CD:** Continuous Integration / Continuous Deployment, Jenkins, CircleCI,GoCD, GitHub Actions, Azure Pipelines.
 * **Cloud and Infrastructure:** Git, Docker, AWS, Azure, GCP, Terraform (functionalknowledge of infrastructure automation).
 
+## Identity & Commit History
+Please note that technical contributions and commits prior to 2021 may appear under my former name, Jade Corcoran. These represent my earlier work at Thoughtworks and other private contracts.
+
 ## Connect with me
 
 * **LinkedIn**: [https://www.linkedin.com/in/fern-leigh-c-666b4657/]
 * **Portfolio**: [fern-leigh.dev](https://fern-leigh.dev/)
+
